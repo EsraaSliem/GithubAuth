@@ -64,3 +64,7 @@ The app is structured following **Clean Architecture**, ensuring a clear separat
 - Extend automated test coverage the whole App.  
 
 
+## 7. preview the app
+
+https://github.com/user-attachments/assets/24290e6f-eaa2-4532-9d5a-9a4e62852212
+
